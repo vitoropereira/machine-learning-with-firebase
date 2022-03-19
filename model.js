@@ -52,7 +52,7 @@ async function train() {
 
 async function evaluate(stuff) {
   // Predict answer for a single piece of data.
+  console.log('cheguei aqui. SO aguardar')
   model.predict(tf.tensor2d([[768]])).print();
+  await model.save('downloads://my-model');
 }
-
-await model.save('downloads://my-model');
