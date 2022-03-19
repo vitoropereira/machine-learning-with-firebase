@@ -9,3 +9,8 @@ e o hospedaremos por meio do Firebase Hosting para que ele possa ser usado em es
 
 Observação: o foco deste projeto foi de hospedar um modelo treinado personalizado para implantação. 
 É um modelo teste e não cria uma arquitetura de modelo perfeita. 
+
+# Próximos passos
+- [ ] Criar uma interface melhor visualizar os dados;
+- [ ] Criar as entradas de valores e tipos de valores para treinamento da Machine Learning;
+- [ ] Outros?
